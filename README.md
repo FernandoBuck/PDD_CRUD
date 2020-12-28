@@ -51,7 +51,5 @@ Para se conectar ao banco de dados você precisará importar o arquivo *pdd_crud
   	* id - Chave primaria da tabela e auto increment.
 	* login - Login para acesso do usuário.
 	* senha - Senha para acesso do usuário.
-	
-  ## Abstração do banco de dados para PHP
+
   
-    
