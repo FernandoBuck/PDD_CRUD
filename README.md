@@ -21,6 +21,6 @@ Para se conectar ao banco de dados você precisará importar o arquivo *pdd_crud
   
   O database disponibilizado para esse projeto contem as seguintes tabelas:
   
-  *cliente
-      *endereco
-  *usuario
+  * cliente
+      * endereco
+  * usuario
